@@ -1,0 +1,56 @@
+.topnav {
+  overflow:hidden;
+  background-color: white;
+  position: relative;
+  padding: 10px 20px 10px 20px
+}
+.topnav a {
+  color: gray;
+  text-decoration: none;
+  font-size: 18px;
+  display: inline;
+}
+.logo {
+  height: 24px;
+  width: 80px;
+  display: inline;
+}
+.video {
+
+  margin-left: 15%
+}
+.container{
+  display:flex;
+}
+.player {
+  background-color:whitesmoke;
+  width: 80%;
+
+}
+.video-info {
+  margin-left: 15%;
+}
+.sidebar{
+  
+  background-color:whitesmoke;
+  width: 20%;
+  display:flex;
+  flex-direction: column;
+}
+
+.thumbnail{
+  margin: 20px;
+  display: flex;
+}
+.thumbnail-title {
+  font-weight:bold;
+  font-size:24px;
+}
+.thumbnail-des {
+
+}
+
+.thumbnail-words{
+  display: flex;
+  flex-direction: column;
+}
